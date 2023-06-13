@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div{
+           border :solid red 2px;
+            width :300px;
+            color : aqua;
+                
+                
+                background :blue;
+                
+                font-size :40px;
+            text-align: center;
+            height :50px;
+            margin: 15px;
+            border-radius:50px;
+            box-shadow:20px
+            
+            
+            
+        } 
+    
+    
+    
+    
+    </style>
+    
+    
+    </head>
+
+
+</html>

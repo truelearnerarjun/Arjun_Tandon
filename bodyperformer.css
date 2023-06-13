@@ -1,0 +1,75 @@
+html{
+    font-family:"THE KING OF GOOD TIMES" sans-serif,serif;
+    text-align: center;
+}
+
+body
+{
+
+background-color:yellow;
+    background-repeat: no-repeat;
+        background-size:cover;
+}
+#foo{
+color:peachpuff;
+}
+[id="foo"]
+{
+    color: springgreen;
+}
+
+.container/*
+{ 
+background :linear-gradient(#66ff66);}*/ 
+
+h1, h2, h3
+{
+    color:hotpink;
+    text-shadow: 2px 2px black;
+    line-height: 1rem;
+    font-family: sans-serif;
+}
+h1{
+    color:green;
+    font-style: italic;
+}
+h2
+{
+    color:blueviolet;
+    font-size:40px;
+}
+h3{
+    font-size:40px; 
+    font-style:italic;
+}
+
+.borderImg{
+    border:10px solid red;
+    border-right-color:12px dotted aquamarine;
+    border-left-color: 12px  dashed bisque;
+}
+ul li
+{
+    color: lightsteelblue;
+        font-size:40px;
+    line-height:2em;
+}
+a
+
+
+{
+    font-size: 50px;
+    text-decoration:none;
+    color:aqua;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+     
+        
+}
+.formatting
+{
+   text-align: left; color:orange;
+    font-size:32px;
+}
+
+

@@ -1,0 +1,21 @@
+body{
+    background-color:rebeccapurple;
+}
+h1
+{
+    color: red;
+        text-align: center;
+}
+.square
+{
+    
+    width: 200px;
+    height 222px;
+    background-color: orangered;
+        margin: auto;
+}
+#circle
+{
+    color: darkred;
+    font-size: 89px;
+}
